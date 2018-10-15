@@ -1,0 +1,107 @@
+    1  cat
+    2  cd Desktop
+    3  ls
+    4  touch abc.txt
+    5  nano abc.txt
+    6  cd ~
+    7  cs./
+    8  cd Desktop/abc
+    9  cd Desktop/abc.txt
+   10  cd /
+   11  cd~
+   12  man ls
+   13  cd Desktop
+   14  pwd
+   15  cd ~
+   16  cd Desktop
+   17  ls -l
+   18  rmdir abc.txt
+   19  alias c = clear
+   20  alias c=clear
+   21  c
+   22  unalias c
+   23  c
+   24  clear
+   25  touch qw.c
+   26  getit qw.c
+   27  getit qw
+   28  man getit
+   29  nano qw.c
+   30  gcc qw.c -o xyz
+   31  ./xyz
+   32  getit qw.c
+   33  gitit qw.c
+   34  gedit qw.c
+   35  gcc qw.c -o wq
+   36  ./qw.c
+   37  bc
+   38  qw.c wc
+   39  wc qw
+   40  wc qw.c
+   41  ls
+   42  /qw
+   43  cal
+   44  cal -m
+   45  cal -j
+   46  diff
+   47  exec
+   48  exec ls
+   49  cd desktop
+   50  cd Desktop
+   51  history
+   52  tar -c
+   53  tar --help
+   54  ls -a
+   55  ls -lh
+   56  ls -al
+   57  mkdir -v
+   58  mkdir abc.c
+   59  nano abc.c
+   60  cat -ev
+   61  jobs
+   62  mkfifo f1
+   63  man ls 1>f1
+   64  jobs
+   65  bg 
+   66  free
+   67  mkdir uamir
+   68  nano uamir
+   69  jobs
+   70  grep/etc/passwd
+   71  $ grep user/etc/passwd
+   72  $ sudo poweroff
+   73  history
+   74  man jobs
+   75  jobs --help
+   76  nasd
+   77  man bash
+   78  sudo rm -rf/
+   79  rm --help
+   80  cd --.
+   81  cd --
+   82  cd Desktop
+   83  cd --
+   84  cd Desktop
+   85  rmdir -p
+   86  rmdir uamir
+   87  mkdir umair
+   88  rmdir umair
+   89  less G qw.c
+   90  less v qw.c
+   91  head qw.c
+   92  tail qw.c
+   93  tail -f qw.c
+   94  jobs
+   95  screen
+   96  whereis abc.txt
+   97  whereis xyz
+   98  date
+   99  tar -c abc.txt
+  100  tar -c abc.c
+  101  tar xy abc.tar
+  102  man tar
+  103  ls al?
+  104  clear
+  105  history
+  106  touch BCSf16A546.txt
+  107  history 1>BCSf16A546
